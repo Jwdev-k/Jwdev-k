@@ -12,10 +12,9 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <br>
-  
-  ![GomGom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=dark)
 </div>
-
+  ![GomGom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=dark)
+  
 ### 🔨Tools
 
 - JetBrains IDE
