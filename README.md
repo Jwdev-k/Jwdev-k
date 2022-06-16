@@ -2,9 +2,11 @@
 
 현재 백엔드 위주로 공부중입니다^^
 
-## 주요 프로젝트
-https://github.com/Jwdev-k/NKBlog
-
+### 📖주요 프로젝트
+blog-web-site : https://github.com/Jwdev-k/NKBlog
+### 📖스프링을 활용한 프로젝트
+websocket : https://github.com/Jwdev-k/WebSocket
+file-share : https://github.com/Jwdev-k/WebFileShare
 ### 📚 STACKS
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
