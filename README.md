@@ -1,13 +1,13 @@
 ## 나만의 작은 개발공간 😊🍟
 
 현재 백엔드 위주로 공부중입니다^^💨
-
-[![GomGom's Github stats](https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwdev-k&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwdev-k&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=radical&hide=contribs">
+</div>
 
 ### 📖주요 프로젝트
-web-site : https://github.com/Jwdev-k/NStory
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Jwdev-k&repo=NStory&theme=dark">
 
 ### 📚 STACKS
 <div> 
