@@ -8,7 +8,7 @@ backend developer ^^💨
 
 ### 📖주요 프로젝트
 <a href="https://github.com/Jwdev-k/NStory">
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Jwdev-k&repo=NStory&theme=dark">
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Jwdev-k&repo=HNT_BOT_V2&theme=dark">
 </a>
 
 ### 📚 STACKS
