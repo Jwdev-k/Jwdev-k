@@ -1,12 +1,12 @@
-ㅠ## 나만의 작은 개발공간 😊🍟
+## 나만의 작은 개발공간 😊🍟
 
-backend developer ^^💨
+### backend developer ^^💨
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwdev-k&layout=compact&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=radical&hide=contribs">
 </div>
 
-### 📖주요 프로젝트
+### 📖Discord Bot Project
 <a href="https://github.com/Jwdev-k/NStory">
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin?username=Jwdev-k&repo=HNT_BOT_V2&theme=dark">
 </a>
