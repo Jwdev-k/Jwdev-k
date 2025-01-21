@@ -1,8 +1,12 @@
 ## 나만의 작은 개발공간 😊🍟
 
 ### backend developer ^^💨
+<h3>💡 My Most Used Languages 💡</h3>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jwdev-k&layout=compact&theme=radical">
+</div>
+<h3>💡 My Git Stats 💡</h3>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Jwdev-k&show_icons=true&theme=radical&hide=contribs">
 </div>
 
